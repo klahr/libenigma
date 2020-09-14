@@ -1,0 +1,7 @@
+AC_INIT([enigma], [1.0])
+AC_CONFIG_AUX_DIR([config])
+AM_INIT_AUTOMAKE([foreign 1.13])
+LT_INIT
+AC_PROG_CC
+AC_CONFIG_FILES([Makefile])
+AC_OUTPUT
