@@ -1,0 +1,7 @@
+.deps
+*.cache
+*.log
+aclocal.m4
+config.status
+libtool
+Makefile
